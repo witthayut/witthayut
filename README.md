@@ -51,9 +51,19 @@ Course project for Thai local governments.
 ## Contact
 
 Open to collaboration on AI agents and internal tools for real businesses.
-## Contact
 
-Open to collaboration on AI agents and internal tools for real businesses.
+## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/witthauit-phicharana-77334533a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:witthayut2548@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/witthauit-phicharana-77334533a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:witthayut2548@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/witthayut" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+  </a>
+</p>
