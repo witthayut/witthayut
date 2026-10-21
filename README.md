@@ -31,10 +31,11 @@ One of three developers on the internal ERP and sales CRM of a steel-building co
 
 **CPBM — Community Project & Budget Monitoring**
 Course project for Thai local governments.
-- Interviewed the mayors of Song Khwae and Salaya subdistrict municipalities on site
+- Interviewed the mayor of Song Khwae subdistrict municipality (executive level) and the director of the engineering division at Salaya subdistrict municipality (operational level, on site)
 - Used open questions to test the team's assumptions instead of confirming them
 - Analyzed government reports from 4 subdistrict administrative organizations in 3 regions
-- The research overturned our main assumption: budgets were already easy to track, and the real gap was construction progress that lives only on paper and in chat photos
+- Found that construction progress lives only on paper and in LINE photos, so it reaches the people who approve payments late
+- Changed the design based on the interviews: the municipality's site supervisor reports (not the contractor), reports come in through LINE or a form, and both produce the municipality's existing paper form for signing
 
 ## Skills
 
