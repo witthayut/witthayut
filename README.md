@@ -49,6 +49,12 @@ Course project for Thai local governments.
 **Design:** Figma
 **AI Tools:** [AI coding tools you actually use]
 
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,nodejs,express,prisma,mysql,docker,nginx,githubactions,flutter,dart,firebase,arduino,git,github,vscode,figma&perline=11" alt="Technologies and tools" />
+</p>
+
 ## Contact
 
 Open to collaboration on AI agents and internal tools for real businesses.
