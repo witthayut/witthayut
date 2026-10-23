@@ -52,7 +52,7 @@ Course project for Thai local governments.
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,nodejs,express,prisma,mysql,docker,nginx,githubactions,flutter,dart,firebase,arduino,git,github,vscode,figma&perline=11" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,nodejs,express,prisma,mysql,docker,nginx,flutter,dart,firebase,arduino,git,github,vscode,figma&perline=11" alt="Technologies and tools" />
 </p>
 
 ## Contact
