@@ -39,15 +39,15 @@ Course project for Thai local governments.
 
 ## Skills
 
-**Languages:** TypeScript · JavaScript · SQL · Dart · Java
-**Frontend:** Vue 3 · Tailwind CSS
-**Backend & Auth:** Node.js · Express · Prisma · OpenID Connect
-**Database:** MySQL
-**DevOps:** Docker · Nginx · DigitalOcean
-**LINE:** LIFF · Messaging API
-**Mobile & IoT:** Flutter · Firebase · ESP32-C3
-**Design:** Figma
-**AI Tools:** Claude API · Claude Code
+- **Languages:** TypeScript · JavaScript · SQL · Dart · Java
+- **Frontend:** Vue 3 · Tailwind CSS
+- **Backend & Auth:** Node.js · Express · Prisma · OpenID Connect
+- **Database:** MySQL
+- **DevOps:** Docker · Nginx · DigitalOcean
+- **LINE:** LIFF · Messaging API
+- **Mobile & IoT:** Flutter · Firebase · ESP32-C3
+- **Design:** Figma
+- **AI Tools:** Claude API · Claude Code
 
 ## 🛠️ Technologies & Tools
 
